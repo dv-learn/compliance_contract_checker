@@ -1,0 +1,9 @@
+Enterprise Procurement Policy
+
+All vendor contracts must be reviewed for:
+1. Auto-renewal clauses – Avoid automatic extensions beyond 12 months.
+2. Termination clauses – Ensure at least 30 days' exit option.
+3. SLA penalties – Clauses that ensure accountability for service downtime.
+4. GDPR & compliance – All contracts involving personal data must include GDPR compliance language.
+
+Contracts must be reviewed 90 days before renewal to evaluate vendor performance and determine continuation.

@@ -1,0 +1,20 @@
+# Ignore vector database
+chroma/
+persist/
+notebooks/vector_db/
+# Ignore vector DB
+notebooks/vector_db/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+
+# Ignore environment files
+.env
+
